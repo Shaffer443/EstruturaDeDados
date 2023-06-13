@@ -1,4 +1,4 @@
-# EstruturaDeDados
+# Estrutura De Dados
 **Modelos de Estrutura de Dados com o propósito para auxiliar ou consultar quando precisar.**
 
-Adivindo de exemplos nas aulas da cadeira Estrutura de Dados da Uninter.
+Exemplos das aulas da cadeira Estrutura de Dados da Uninter.
